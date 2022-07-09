@@ -13,6 +13,9 @@
     Visit <a href="https://svelte.dev">svelte.dev</a> to learn how to build Svelte
     apps.
   </p>
+  <p>
+  <a href="how-to-deploy-to-github-pages.pdf">How to deploy to github pages tutorial</a>
+  </p>
 
   <p>
     Check out <a href="https://github.com/sveltejs/kit#readme">SvelteKit</a> for
